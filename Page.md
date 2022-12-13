@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Page
-theme: cayman
+theme: Cayman
 ---
 
 # htan0459.github.io
